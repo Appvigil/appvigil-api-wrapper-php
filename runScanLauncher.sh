@@ -1,0 +1,1 @@
+php scan-launcher.php -K 0CE9E665D3B1BAC -S 485BB3C8FA0A2E438AB164D18A0D0F -L testapp.apk -N php-wrapper-test.apk --verbose
